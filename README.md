@@ -6,8 +6,8 @@ Este projeto é um sistema de controle e gerenciamento de ordens de serviço em 
 ### Contexto
 - Os clientes levam seus veículos à oficina para consertos ou revisões.
 - Cada veículo é designado a uma equipe de mecânicos, que avalia e executa os serviços.
-- Uma Ordem de Serviço (OS) é criada para registrar os serviços e peças necessários.
-- O valor total da OS é calculado com base nos serviços e peças utilizados.
+- Uma Ordem de Serviço (OS) é criada para registrar os serviços e peças necessárias.
+- O valor total da OS é calculado com base nos serviços e peças utilizadas.
 - O sistema mantém o controle de status e datas das OS.
 
 ### Estrutura do Banco de Dados
